@@ -1,3 +1,4 @@
+# The container definition
 box:
   id: golang
   ports:
